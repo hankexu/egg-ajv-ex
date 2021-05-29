@@ -7,17 +7,17 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-ajv-ex.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/egg-ajv-ex.svg
 [npm-url]: https://npmjs.org/package/egg-ajv-ex
-[travis-image]: https://img.shields.io/travis/eggjs/egg-ajv-ex.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-ajv-ex
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-ajv-ex.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-ajv-ex?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-ajv-ex.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-ajv-ex
-[snyk-image]: https://snyk.io/test/npm/egg-ajv-ex/badge.svg?style=flat-square
+[travis-image]: https://www.travis-ci.com/hankexu/egg-ajv-ex.svg?branch=master
+[travis-url]: https://www.travis-ci.com/hankexu/egg-ajv-ex
+[codecov-image]: https://codecov.io/gh/hankexu/egg-ajv-ex/branch/master/graph/badge.svg?token=Hkb6TYLqXb
+[codecov-url]: https://codecov.io/gh/hankexu/egg-ajv-ex
+[david-image]: https://img.shields.io/david/hankexu/egg-ajv-ex.svg
+[david-url]: https://david-dm.org/hankexu/egg-ajv-ex
+[snyk-image]: https://snyk.io/test/npm/egg-ajv-ex/badge.svg
 [snyk-url]: https://snyk.io/test/npm/egg-ajv-ex
-[download-image]: https://img.shields.io/npm/dm/egg-ajv-ex.svg?style=flat-square
+[download-image]: https://img.shields.io/npm/dm/egg-ajv-ex.svg
 [download-url]: https://npmjs.org/package/egg-ajv-ex
 
 <!--

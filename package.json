@@ -1,6 +1,6 @@
 {
   "name": "egg-ajv-ex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ajv JSON schema validator based parameter validation plugin",
   "eggPlugin": {
     "name": "ajvEx"

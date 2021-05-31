@@ -1,6 +1,6 @@
 {
   "name": "egg-ajv-ex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ajv JSON schema validator based parameter validation plugin",
   "eggPlugin": {
     "name": "ajvEx"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-ajv-ex.git"
+    "url": "git+https://github.com/hankexu/egg-ajv-ex.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/hankexu/egg-ajv-ex/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-ajv-ex#readme",
+  "homepage": "https://github.com/hankexu/egg-ajv-ex#readme",
   "author": "Hanke Xu",
   "license": "MIT"
 }
